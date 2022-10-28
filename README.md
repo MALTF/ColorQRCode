@@ -1,5 +1,7 @@
 # ColorQRCode
-![1358822900_1212](https://user-images.githubusercontent.com/15863058/198490020-68b3f136-8282-4b51-9061-fa09b4d9743e.png)
+
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/15863058/198491706-241485a0-9b57-41d1-a0f8-ce11f3ccaea6.png">
+
 彩色QRCode二维码生成
 
 MALTF/ColorQRCode is licensed under the
