@@ -1,10 +1,10 @@
 # ColorQRCode <a href=""><img src="https://img.shields.io/badge/Build-pass-brightgreen"/></a>
 
+彩色QRCode二维码
+
 <img src="/colorqrcode_screenshot.png" width="45%">
 
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/15863058/198491706-241485a0-9b57-41d1-a0f8-ce11f3ccaea6.png">
-
-彩色QRCode二维码
+<img width="44%" alt="image" src="https://user-images.githubusercontent.com/15863058/198491706-241485a0-9b57-41d1-a0f8-ce11f3ccaea6.png">
 
 ## License
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
