@@ -2,6 +2,21 @@
 
 彩色QRCode二维码
 
+##### 生成二维码
+
+```java
+Bitmap colorQrCode = EncoderQrCode.with().encodeQrCode(new String("https://github.com/MALTF".getBytes(StandardCharsets.UTF_8)),
+                            0.85f, 512, new int[]{Color.parseColor("#02E06D"), Color.WHITE}, 1);
+qrCodeImageView.post(new Runnable() {
+  @Override
+  public void run() {
+    if (colorQrCode != null) {
+      qrCodeImageView.setImageBitmap(colorQrCode);
+    }
+  }
+});
+```
+
 <img src="/colorqrcode_screenshot.png" width="45%">
 
 <img width="44%" alt="image" src="https://user-images.githubusercontent.com/15863058/198491706-241485a0-9b57-41d1-a0f8-ce11f3ccaea6.png">
